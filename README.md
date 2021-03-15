@@ -11,9 +11,13 @@ After it, you can either:
 1. Open a browser and launch GET request to the following endpoint: http://localhost/mytheresa/products.php
 
   Examples:
+  
   http://localhost/myTheresa/products.php
+  
   http://localhost/myTheresa/products.php?priceLessThan=72000
+  
   http://localhost/myTheresa/products.php?category=boots
+  
   http://localhost/myTheresa/products.php?priceLessThan=72000&category=boots
   
 2. Use php command in a shell window within htdocs/mytheresa:
